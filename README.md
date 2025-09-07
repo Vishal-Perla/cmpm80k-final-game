@@ -21,6 +21,16 @@ The player takes the role of a superhero navigating through a child’s nightmar
   - Integrated **sound design and background music** for immersive atmosphere
   - Demonstrates **game architecture principles** transferable to larger game engines (Unity, Godot)
 
+## 🛠️ Tech Stack
+
+- **Engine:** GDevelop 5 (extended with **custom JavaScript**)  
+- **Codebase:** 1,000+ lines of JavaScript powering complex mechanics (e.g., timeline system, enemy AI, clone spawning)  
+- **Key Technical Features:**
+  - Timeline mechanic for recording and replaying player actions
+  - JSON-based parsing of action data for MOVE and BOMB events
+  - Dynamic instantiation of timeline objects bound to player IDs
+  - Modular JavaScript functions integrated with GDevelop’s event system
+
 ---
 
 ## 🚀 How to Run
