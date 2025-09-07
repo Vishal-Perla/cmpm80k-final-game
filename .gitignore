@@ -1,0 +1,6 @@
+# GDevelop temp build/export folders
+*.cache
+*.log
+dist/
+build/
+export/
