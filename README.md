@@ -3,7 +3,7 @@
 **Dream Blast** is a top-down 2D puzzle-action game built in **GDevelop** for my CMPM 80K final project.  
 You play as a superhero navigating through a child’s nightmare, using powers to fight enemies and solve puzzles to escape each level.  
 
-🌐 Deployed on **[Vercel](https://dream-blast.vercel.app)** and **[Itch.io](https://your-itch-link-here)** — with **2,200+ visits to date** 🚀  
+🌐 Deployed on **[Vercel](https://dream-blast.vercel.app)** with **2,200+ visits to date** 🚀  
 
 ---
 
