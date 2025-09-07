@@ -15,11 +15,11 @@ writing over **1,000 lines of custom JavaScript** to push GDevelop past its limi
 
 ## 🛠️ Tech Stack
 - **Engine:** GDevelop 5  
-- **Code:** 1,000+ lines of custom **JavaScript** for mechanics like:
+- **Code:** custom **JavaScript** for mechanics like:
   - Timeline system (record/replay of moves + actions)  
   - JSON-based event parsing (MOVE, BOMB, etc.)  
   - Dynamic enemy AI states and clone spawning  
-- Team also created original **art + sound assets** for a complete experience.  
+- Also created original **art + sound assets** for a complete experience.  
 
 ---
 
