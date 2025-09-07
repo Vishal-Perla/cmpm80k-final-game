@@ -1,7 +1,7 @@
 # 🎮 Dream Blast
 
 **Dream Blast** is a 2D puzzle-action game built in **GDevelop** as my final project for CMPM 80K.  
-It started as a simple prototype but quickly turned into a passion project where we went way beyond the basics — writing over **1,000 lines of custom JavaScript** to push GDevelop past its limits.
+writing over **1,000 lines of custom JavaScript** to push GDevelop past its limits.
 
 ---
 
