@@ -1,6 +1,6 @@
 # 🎮 Dream Blast
 
-**Dream Blast** is a top-down 2D puzzle-action game built in **GDevelop** for the CMPM 80K final project at UC Santa Cruz.  
+**Dream Blast** is a top-down 2D puzzle-action game built in **GDevelop** for my CMPM 80K final project.  
 The player takes the role of a superhero navigating through a child’s nightmare, defeating enemies and solving environmental puzzles to escape each level.
 
 ---
