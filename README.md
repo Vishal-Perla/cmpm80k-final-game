@@ -26,9 +26,3 @@ You play as a superhero navigating through a child’s nightmare, using powers t
 ## 🚀 Play Now
 - 🌐 Vercel: [dream-blast.vercel.app](https://dream-blast.vercel.app)  
 - 🎮 Itch.io: [your-itch-link-here](https://your-itch-link-here)  
-
----
-
-## ❤️ Backstory
-This started as a class assignment, but turned into a **passion project**.  
-We went above and beyond, writing thousands of lines of code, designing original art, and building a game system that shows how much **UI/UX design and solid mechanics** can elevate even a student project.  
