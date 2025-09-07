@@ -1,49 +1,34 @@
 # 🎮 Dream Blast
 
-**Dream Blast** is a top-down 2D puzzle-action game built in **GDevelop** for my CMPM 80K final project.  
-The player takes the role of a superhero navigating through a child’s nightmare, defeating enemies and solving environmental puzzles to escape each level.
+**Dream Blast** is a 2D puzzle-action game we built in **GDevelop** as the final project for CMPM 80K.  
+It started as a simple prototype but quickly turned into a passion project where we went way beyond the basics — writing over **1,000 lines of custom JavaScript** to push GDevelop past its limits.
 
 ---
 
-## ✨ Features
+## ✨ What Makes It Special
+- Play as a superhero stuck in a nightmare, fighting enemies and solving puzzles to escape.  
+- Use **clone powers** to distract monsters or stand on switches to unlock doors.  
+- Continuous top-down movement with enemies that **chase, patrol, and attack**.  
+- A unique **timeline mechanic** (fully coded in JS) that records and replays player actions — not something GDevelop gives you out of the box.  
 
-- **Core Mechanics**
-  - Continuous top-down movement with enemy patrol AI
-  - Superpower ability to spawn **clones** that can distract enemies or stand on pressure plates
-  - Puzzle interactions such as doors that unlock only when clones hold switches
-  - Combat: defeat nightmare monsters while conserving limited clone resources
-
-- **Technical Highlights**
-  - Built with **GDevelop 5** using event sheets (no raw engine code required)
-  - Organized reusable events for **AI behavior, collision handling, and power mechanics**
-  - Custom **state-based enemy AI**: idle → chase → attack
-  - Original art assets contributed by the team (pixel-style characters, UI, and level tilesets)
-  - Integrated **sound design and background music** for immersive atmosphere
-  - Demonstrates **game architecture principles** transferable to larger game engines (Unity, Godot)
+---
 
 ## 🛠️ Tech Stack
-
-- **Engine:** GDevelop 5 (extended with **custom JavaScript**)  
-- **Codebase:** 1,000+ lines of JavaScript powering complex mechanics (e.g., timeline system, enemy AI, clone spawning)  
-- **Key Technical Features:**
-  - Timeline mechanic for recording and replaying player actions
-  - JSON-based parsing of action data for MOVE and BOMB events
-  - Dynamic instantiation of timeline objects bound to player IDs
-  - Modular JavaScript functions integrated with GDevelop’s event system
+- **Engine:** GDevelop 5  
+- **Code:** 1,000+ lines of custom **JavaScript** for mechanics like:
+  - Timeline system (record/replay of moves + actions)  
+  - JSON-based event parsing (MOVE, BOMB, etc.)  
+  - Dynamic enemy AI states and clone spawning  
+- Team also created original **art + sound assets** for a complete experience.  
 
 ---
 
-## 🚀 How to Run
+## 🚀 How to Play
+1. Clone or download this repo.  
+2. Open the exported build (`index.html` in the `export/` folder) to play in your browser.  
+3. Or open the project in [GDevelop 5](https://gdevelop.io/download) to see the full event system + JavaScript extensions we wrote.  
 
-### Option 1: Play the Exported Build
-If we’ve uploaded an HTML5 export:
-1. Clone or download this repo.
-2. Open the `dist/` or `export/` folder in your browser (`index.html`).
-3. Play instantly, no install required.
+---
 
-### Option 2: Open in GDevelop (Recommended for Contributors)
-1. [Download GDevelop 5](https://gdevelop.io/download).
-2. Clone this repo:
-   ```bash
-   git clone https://github.com/<your-username>/dream-blast.git
-   cd dream-blast
+Dream Blast was built as a **class project**, but it turned into something bigger:  
+a chance to learn how to hack around engine limits, collaborate as a team, and write a ton of real code to bring an idea to life.  
