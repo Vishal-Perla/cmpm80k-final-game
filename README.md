@@ -12,7 +12,7 @@ You play as a superhero navigating through a child’s nightmare, using powers t
 - **Gameplay:** Continuous top-down movement, clone-based puzzles, and combat against nightmare monsters.  
 - **Code:** 1,000+ lines of **custom JavaScript** powering a unique timeline mechanic, state-based AI, and action parsing.  
 - **UI/UX:** Original pixel art, sound design, and interaction systems designed for clarity and immersion.  
-- **Recognition:** Awarded *Best UI/UX* at **GDevelop Game Jam #7** and praised for *Best Code Mechanics*.  
+- **Recognition:** Awarded *Best UI/UX* at **GDevelop Game Jam #7** and honorable mention for *Best Code Mechanics*.  
 
 ---
 
