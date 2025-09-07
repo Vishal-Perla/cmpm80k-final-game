@@ -1,48 +1,34 @@
-🎮 Dream Blast
+# 🎮 Dream Blast
 
-Dream Blast is a top-down 2D puzzle-action game built in GDevelop for my CMPM 80K final project.
-The player takes the role of a superhero navigating through a child’s nightmare, defeating enemies and solving puzzles to escape each level.
+**Dream Blast** is a top-down 2D puzzle-action game built in **GDevelop** for my CMPM 80K final project.  
+You play as a superhero navigating through a child’s nightmare, using powers to fight enemies and solve puzzles to escape each level.  
 
-Deployed on Vercel
- and Itch.io
- — with 2,200+ visits to date 🚀
+🌐 Deployed on **[Vercel](https://dream-blast.vercel.app)** and **[Itch.io](https://your-itch-link-here)** — with **2,200+ visits to date** 🚀  
 
-✨ Features
+---
 
-Core Gameplay
+## ✨ Highlights
 
-Continuous top-down movement with enemy patrol AI
+- **Gameplay:** Continuous top-down movement, clone-based puzzles, and combat against nightmare monsters.  
+- **Code:** 1,000+ lines of **custom JavaScript** powering a unique timeline mechanic, state-based AI, and action parsing.  
+- **UI/UX:** Original pixel art, sound design, and interaction systems designed for clarity and immersion.  
+- **Recognition:** Awarded *Best UI/UX* at **GDevelop Game Jam #7** and praised for *Best Code Mechanics*.  
 
-Superpower ability to spawn clones that distract enemies or hold switches
+---
 
-Puzzle interactions (doors, pressure plates, resource management)
+## 🛠️ Tech Stack
+- **Engine:** GDevelop 5 + custom JavaScript  
+- **Deployment:** Vercel & Itch.io  
+- **Focus:** Gameplay architecture, reusable events, UI/UX design  
 
-Combat: defeat nightmare monsters while conserving clone power
+---
 
-Technical Highlights
+## 🚀 Play Now
+- 🌐 Vercel: [dream-blast.vercel.app](https://dream-blast.vercel.app)  
+- 🎮 Itch.io: [your-itch-link-here](https://your-itch-link-here)  
 
-Built in GDevelop 5 with 1,000+ lines of custom JavaScript for mechanics
+---
 
-Timeline system for recording/replaying player actions
-
-JSON-based parsing of action data (MOVE, BOMB, etc.)
-
-Dynamic instantiation of timeline objects bound to player IDs
-
-Custom state-based AI (idle → chase → attack)
-
-🛠️ Tech Stack
-
-Engine: GDevelop 5
-
-Languages: JavaScript (custom mechanics), JSON
-
-Deployment: Vercel (HTML5 static hosting), Itch.io
-
-Assets: Original art & sound design
-
-🚀 Play Now
-
-🌐 Vercel: dream-blast.vercel.app
-
-🎮 Itch.io: your-itch-link-here
+## ❤️ Backstory
+This started as a class assignment, but turned into a **passion project**.  
+We went above and beyond, writing thousands of lines of code, designing original art, and building a game system that shows how much **UI/UX design and solid mechanics** can elevate even a student project.  
