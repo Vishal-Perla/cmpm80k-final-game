@@ -20,9 +20,3 @@ You play as a superhero navigating through a child’s nightmare, using powers t
 - **Engine:** GDevelop 5 + custom JavaScript  
 - **Deployment:** Vercel & Itch.io  
 - **Focus:** Gameplay architecture, reusable events, UI/UX design  
-
----
-
-## 🚀 Play Now
-- 🌐 Vercel: [dream-blast.vercel.app](https://dream-blast.vercel.app)  
-- 🎮 Itch.io: [your-itch-link-here](https://your-itch-link-here)  
